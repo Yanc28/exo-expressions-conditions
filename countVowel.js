@@ -18,7 +18,6 @@ Modulant tour à tour sur la lyre d'Orphée\n\
 Les soupirs de la sainte et les cris de la fée."
 
 text = text.toLowerCase()
-console.log(text)
 
 let nbA = 0
 let nbE = 0
