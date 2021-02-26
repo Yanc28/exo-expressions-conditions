@@ -37,6 +37,10 @@ for (let i = 0; i < text.length; ++i) {
     case `a`:
       ++nbA
       break
+    case `é`:
+    case `e`:
+      ++nbE
+      break
     case 'i':
       ++nbI
       break
